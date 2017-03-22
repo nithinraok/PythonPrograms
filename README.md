@@ -1,2 +1,1 @@
-# PythonPrograms
-Programs I created using Python
+Programs created using Python
